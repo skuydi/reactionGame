@@ -54,7 +54,6 @@ You can test your reaction speed, challenge your friends, and keep track of the 
 ## Acknowledgments
 
 - Original idea and inspiration: [Peten Paja's Spede Project](http://petenpaja.blogspot.com/2013/04/first-project-arduino-spede.html?m=1)
-- Modified and extended by [Your Name or GitHub Username]
 
 ## License
 
